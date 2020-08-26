@@ -3,5 +3,5 @@
 Simple empaquetador web, que permite *convertir* en app un página.
 Cambiar esta línea con la página que se desea empaquetar.
 
-  // App.js
-  source={{ uri: *'https://paginadeejemplo.com'* }}
+    // App.js
+    source={{ uri: *'https://paginadeejemplo.com'* }}
