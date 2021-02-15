@@ -1,4 +1,4 @@
-# Empaquetador
+# Empaquetador Web react-native
 
 Simple empaquetador web, que permite *convertir* en app un página.
 Cambiar esta línea con la página que se desea empaquetar.
